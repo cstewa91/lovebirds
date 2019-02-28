@@ -1,6 +1,6 @@
 # Love Birds
 
-> This application is top help couples plan dates and relationship reminders
+> This application is top help couples plan date nights, store pictures, and set reminders for important dates
 
 ### Setup Instructions
 
